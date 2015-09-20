@@ -63,3 +63,13 @@ $ sudo modprobe mt7601Usta
 ```
 gnome-session-config
 ```
+
+### System font 
+```
+unity-tweak-tool
+# Appearence -> Fonts
+# Default font: LiHei 11
+# Document font: LiHei 11
+# Monospace font: Droid Sans Mono 13
+# Windows title font: Hack Bold 11
+```
