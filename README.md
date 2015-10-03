@@ -2,6 +2,7 @@
 My tuning note for Ubuntu 14.04
 
 Hardware: Asus UX-305FA
+
 WM: Gnome3
 
 ## Gnome Installation
