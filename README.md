@@ -147,3 +147,5 @@ vi ~/.config/user-dirs.dirs
 After modification, must create those directories.
 Re-login.
 
+# Remark
+Linode: 139.162.21.238
